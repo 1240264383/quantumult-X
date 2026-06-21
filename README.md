@@ -8,7 +8,7 @@
 
 ### 📖 项目介绍
 
-这是一个专为 **Quantumult X** 优化的分流规则库，包含国外AI网站、代理服务等分流规则。所有规则均经过测试和优化，可直接订阅使用。
+这是一个专为 **Quantumult X** 优化的分流规则库，专注于提供国外AI网站的分流规则。所有规则均经过测试和优化，可直接订阅使用。
 
 **主要特性：**
 - ✅ 包含100+个国外AI网站
@@ -193,8 +193,6 @@ https://raw.githubusercontent.com/1240264383/quantumult-X/main/ai-worldwide.list
 **Q: 规则中的域名是最新的吗？**
 - A: 是的。规则每24小时自动更新，包含最新的AI网站域名。
 
-
-
 ---
 
 ### 📄 许可证
@@ -207,7 +205,7 @@ https://raw.githubusercontent.com/1240264383/quantumult-X/main/ai-worldwide.list
 
 ### 📖 Project Introduction
 
-This is a **Quantumult X** optimized filter rules library containing proxy rules for overseas AI websites and services. All rules are tested and optimized for direct subscription.
+This is a **Quantumult X** optimized filter rules library focused on providing filter rules for overseas AI websites. All rules are tested and optimized for direct subscription.
 
 **Main Features:**
 - ✅ 100+ overseas AI websites
@@ -392,8 +390,6 @@ https://raw.githubusercontent.com/1240264383/quantumult-X/main/ai-worldwide.list
 **Q: Are the domains in the rules up-to-date?**
 - A: Yes. Rules are automatically updated every 24 hours with the latest AI website domains.
 
-
-
 ---
 
 ### 📄 License
@@ -402,6 +398,33 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 ---
 
+## 📊 GitHub Statistics | GitHub统计
+
+### Repository Stats | 仓库统计
+
+<div align="center">
+
+![GitHub Repo stars](https://img.shields.io/github/stars/1240264383/quantumult-X?style=flat-square&logo=github&label=Stars&color=brightgreen)
+![GitHub forks](https://img.shields.io/github/forks/1240264383/quantumult-X?style=flat-square&logo=github&label=Forks&color=blue)
+![GitHub watchers](https://img.shields.io/github/watchers/1240264383/quantumult-X?style=flat-square&logo=github&label=Watchers&color=yellow)
+![GitHub issues](https://img.shields.io/github/issues/1240264383/quantumult-X?style=flat-square&logo=github&label=Issues&color=red)
+
+### GitHub User Stats | 用户统计
+
+[![1240264383's GitHub stats](https://github-readme-stats.vercel.app/api?username=1240264383&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/1240264383)
+
+### Most Used Languages | 编程语言统计
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1240264383&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/1240264383)
+
+### Repository Statistics | 仓库详细统计
+
+![Repository Status](https://github-readme-stats.vercel.app/api/pin/?username=1240264383&repo=quantumult-X&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 **Last Updated: 2026-06-21**
 
-⭐ If you find this useful, please give this repository a star!
+⭐ If you find this useful, please give this repository a star! | 如果这对你有帮助，请给这个仓库一个Star！
