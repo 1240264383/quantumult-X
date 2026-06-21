@@ -193,14 +193,7 @@ https://raw.githubusercontent.com/1240264383/quantumult-X/main/ai-worldwide.list
 **Q: 规则中的域名是最新的吗？**
 - A: 是的。规则每24小时自动更新，包含最新的AI网站域名。
 
----
 
-### 📧 反馈和建议
-
-如有任何建议或发现规则错误，欢迎：
-- 提交 Issue
-- 发起 Pull Request
-- 直接联系维护者
 
 ---
 
@@ -399,14 +392,7 @@ https://raw.githubusercontent.com/1240264383/quantumult-X/main/ai-worldwide.list
 **Q: Are the domains in the rules up-to-date?**
 - A: Yes. Rules are automatically updated every 24 hours with the latest AI website domains.
 
----
 
-### 📧 Feedback and Suggestions
-
-If you have any suggestions or find errors in the rules, welcome to:
-- Submit an Issue
-- Create a Pull Request
-- Contact the maintainer directly
 
 ---
 
