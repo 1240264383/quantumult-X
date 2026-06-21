@@ -1,0 +1,237 @@
+# Quantumult X AI Website Proxy Rules
+# 国外AI网站分流规则 (除中国AI网站外)
+# Updated: 2026-06-21
+# 用于Quantumult X远程订阅
+
+# ChatGPT & OpenAI
+host, openai.com, proxy
+host, api.openai.com, proxy
+host, chat.openai.com, proxy
+host, cdn.openai.com, proxy
+host, pay.openai.com, proxy
+host, platform.openai.com, proxy
+host, chatgpt.com, proxy
+host, o.co, proxy
+
+# Claude & Anthropic
+host, claude.ai, proxy
+host, claude.com, proxy
+host, api.anthropic.com, proxy
+host, console.anthropic.com, proxy
+
+# Google Gemini
+host, gemini.google.com, proxy
+host, bard.google.com, proxy
+host, ai.google.dev, proxy
+host, makersuite.google.com, proxy
+
+# Perplexity AI
+host, perplexity.ai, proxy
+host, api.perplexity.ai, proxy
+
+# Microsoft Copilot & Bing AI
+host, copilot.microsoft.com, proxy
+host, bing.com, proxy
+host, bingapis.com, proxy
+
+# Mistral AI
+host, mistral.ai, proxy
+host, chat.mistral.ai, proxy
+
+# Cohere
+host, cohere.com, proxy
+host, dashboard.cohere.com, proxy
+
+# Hugging Face
+host, huggingface.co, proxy
+host, hf.co, proxy
+
+# Groq
+host, groq.com, proxy
+host, console.groq.com, proxy
+
+# Together AI
+host, together.ai, proxy
+host, api.together.xyz, proxy
+
+# Replicate
+host, replicate.com, proxy
+host, api.replicate.com, proxy
+
+# Scale AI
+host, scale.com, proxy
+
+# Modal
+host, modal.com, proxy
+
+# Runwayml
+host, runwayml.com, proxy
+
+# Stability AI
+host, stability.ai, proxy
+host, api.stability.ai, proxy
+
+# Jasper AI
+host, jasper.ai, proxy
+
+# Copy.ai
+host, copy.ai, proxy
+
+# Writesonic
+host, writesonic.com, proxy
+
+# Sudowrite
+host, sudowrite.com, proxy
+
+# Typeform AI
+host, typeform.com, proxy
+
+# MidJourney & Discord (for MJ)
+host, midjourney.com, proxy
+host, discord.com, proxy
+host, discord.gg, proxy
+host, discordapp.com, proxy
+
+# Stable Diffusion & related
+host, stablediffusionapi.com, proxy
+
+# Character AI
+host, character.ai, proxy
+
+# Pi AI
+host, pi.ai, proxy
+
+# Poe AI
+host, poe.com, proxy
+
+# You.com
+host, you.com, proxy
+
+# Semantic Scholar
+host, semanticscholar.org, proxy
+
+# arXiv
+host, arxiv.org, proxy
+
+# Papers With Code
+host, paperswithcode.com, proxy
+
+# GitHub (for AI models & repos)
+host, github.com, proxy
+host, raw.githubusercontent.com, proxy
+host, api.github.com, proxy
+
+# HuggingChat
+host, huggingchat.co, proxy
+
+# LLaMA Deploy
+host, llama.cpp, proxy
+
+# Kaggle
+host, kaggle.com, proxy
+
+# TensorFlow Hub
+host, tfhub.dev, proxy
+
+# PyTorch Hub
+host, pytorch.org, proxy
+
+# OpenAI Playground
+host, platform.openai.com, proxy
+
+# LangChain
+host, langchain.com, proxy
+
+# LlamaIndex
+host, llamaindex.ai, proxy
+
+# Vercel AI
+host, vercel.com, proxy
+
+# Pinecone
+host, pinecone.io, proxy
+
+# Weaviate
+host, weaviate.io, proxy
+
+# Milvus
+host, milvus.io, proxy
+
+# Supabase
+host, supabase.com, proxy
+
+# Firebase
+host, firebase.google.com, proxy
+
+# AWS AI Services
+host, aws.amazon.com, proxy
+host, sagemaker.amazonaws.com, proxy
+
+# Azure AI
+host, azure.microsoft.com, proxy
+
+# IBM Watson
+host, ibm.com, proxy
+
+# Dataiku
+host, dataiku.com, proxy
+
+# RapidAPI
+host, rapidapi.com, proxy
+
+# Algorithmia
+host, algorithmia.com, proxy
+
+# AssemblyAI
+host, assemblyai.com, proxy
+
+# Deepgram
+host, deepgram.com, proxy
+
+# ElevenLabs
+host, elevenlabs.io, proxy
+
+# Synthesia
+host, synthesia.io, proxy
+
+# Descript
+host, descript.com, proxy
+
+# Loom
+host, loom.com, proxy
+
+# Synthwave
+host, synthwave.ai, proxy
+
+# DALL-E (OpenAI)
+host, labs.openai.com, proxy
+
+# Dream by WOMBO
+host, wombo.ai, proxy
+
+# ArtBreeder
+host, artbreeder.com, proxy
+
+# Deep Dream Generator
+host, deepdreamgenerator.com, proxy
+
+# Artflow
+host, artflow.ai, proxy
+
+# NightCafe
+host, nightcafe.studio, proxy
+
+# Craiyon
+host, craiyon.com, proxy
+
+# Lexica
+host, lexica.art, proxy
+
+# Civitai
+host, civitai.com, proxy
+
+# Other AI Services
+host, openrouter.ai, proxy
+host, api2.openrouter.ai, proxy
+host, antml.sharegpt.com, proxy
+host, pplx-api.vercel.app, proxy
